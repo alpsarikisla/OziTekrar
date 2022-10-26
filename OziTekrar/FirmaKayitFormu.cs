@@ -39,13 +39,15 @@ namespace OziTekrar
             string firmaunvan = tb_firmaUnvan.Text;
             string telefon = tb_firmaTelefon.Text;
             string adres = tb_firmaAdres.Text;
+            string sehir = cb_sehir.Text;
+            string sehirID = cb_sehir.SelectedValue.ToString();
 
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Firma Adı = " + firmaadi);
             sb.AppendLine("Firma Unvan = " + firmaunvan);
             sb.AppendLine("Firma Telefon = " + telefon);
             sb.AppendLine("Firma Adres = " + adres);
-
+            sb.AppendLine("Firma Şehir = " + sehir + "(" + sehirID + ")");
             tb_sonuc.Text = sb.ToString();
 
         }
