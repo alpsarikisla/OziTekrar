@@ -1,0 +1,12 @@
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\bin\Debug\OziTekrar.exe.config
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\bin\Debug\OziTekrar.exe
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\bin\Debug\OziTekrar.pdb
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.Properties.Resources.resources
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.csproj.GenerateResource.cache
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.exe
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.pdb
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.Form1.resources
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.FirmaKayitFormu.resources
