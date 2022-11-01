@@ -1,0 +1,6 @@
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.dll
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.dll
+C:\Users\303\Documents\GitHub\OziTekrar\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.pdb

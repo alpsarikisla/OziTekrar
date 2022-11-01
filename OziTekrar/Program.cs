@@ -16,7 +16,7 @@ namespace OziTekrar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FirmaKayitFormu());
+            Application.Run(new PersonelKayitForm());
         }
     }
 }

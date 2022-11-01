@@ -10,3 +10,7 @@ C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.exe
 C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.pdb
 C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.Form1.resources
 C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.FirmaKayitFormu.resources
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.PersonelKayitForm.resources
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\bin\Debug\VeriErisimKatmani.dll
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\303\Documents\GitHub\OziTekrar\OziTekrar\obj\Debug\OziTekrar.csproj.CopyComplete

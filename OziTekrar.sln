@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OziTekrar", "OziTekrar\OziTekrar.csproj", "{083E10E0-57B0-4AFB-9942-AD6545167B7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriErisimKatmani", "VeriErisimKatmani\VeriErisimKatmani.csproj", "{C01A20D7-947B-4162-AEB3-8A19FC68098F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{083E10E0-57B0-4AFB-9942-AD6545167B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083E10E0-57B0-4AFB-9942-AD6545167B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083E10E0-57B0-4AFB-9942-AD6545167B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01A20D7-947B-4162-AEB3-8A19FC68098F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01A20D7-947B-4162-AEB3-8A19FC68098F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01A20D7-947B-4162-AEB3-8A19FC68098F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01A20D7-947B-4162-AEB3-8A19FC68098F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
